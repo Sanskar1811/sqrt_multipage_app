@@ -1,0 +1,11 @@
+* { font-size : 40px ; font-family : Times New Roman ; }
+		body { background-color : #73C6B6 ; }	
+		.nav { background-color : black ; }
+		.nav a { color : white ; text-decoration : none ; margin : 10% ;}
+		h2 { border : solid; border-radius : 30px ; width : 600px ;}
+
+#btn {
+	width : 230px ;  border-radius : 20% ;  color : red  ; background-color : #F7DC6F ;  
+}
+
+#btn:hover{ color : purple ; }
